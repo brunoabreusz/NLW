@@ -1,13 +1,11 @@
+<h1>Aplicação feita na Next Level Week #1 da @Rocketseat, nos dias 1 a 5 de Junho</h1>
 
-<img width="30" src="public/assests/lampadas.svg"> 
-<img width="30" src="docs/icones/baterias.svg">
-<img width="30" src="docs/icones/papeis-papelao.svg">
-<img width="30" src="docs/icones/eletronicos.svg">
-<img width="30" src="docs/icones/organicos.svg">
-<img width="30" src="docs/icones/oleo.svg">
-<h2>Aplicação feita na Next Level Week #1 da @Rocketseat, nos dias 1 a 5 de Junho
 
-<img src="/public/assets/README/nlw.png" alt="nlw">
+<img src="/public/assets/README/Next.png" alt="Nlw">
+
+
+
+<h2>Sobre o projeto: <br><h3>O Ecoleta é um projeto criado para gerenciar o processo de coleta de lixo nas cidades. Com ele, é possivel ajudar a pessoa a encontrarem o ponto de coleta de uma forma mais eficiente.</h3></h2>
 
 <h3>Front-end:</h3>
 <p><a href="https://mozilla.github.io/nunjucks/">Nunjucks</a></br>
@@ -25,6 +23,8 @@
 
 <p><a href="https://servicodados.ibge.gov.br/api/docs">IBGE</a></p>
 
+<img src="/public/assets/README/nlw.png" alt=" Next Level Week">
 
+<h3>Codigo por:</h3> <h4><a href="https://www.linkedin.com/in/bruno-de-abreu-de-souza-16842a1a7/">@brunoabreusz</a></h4>
+<h3>Instrutor:</h3> <h4><a href="https://github.com/maykbrito">@maykbrito</a></h4>
 
-</h2>

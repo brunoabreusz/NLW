@@ -2,10 +2,11 @@ body::after {
     content: "";
     position: fixed;
     background: white;
-    top: 260px;
+    top: 0;
     right: 0;
     left: 0;
     bottom: 0;
+    height: 16em;
     z-index: -1;
 }
 #page-search-results {

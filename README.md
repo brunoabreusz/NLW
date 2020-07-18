@@ -1,4 +1,4 @@
-<h1>Aplicação feita na Next Level Week #1 da @Rocketseat, nos dias 1 a 5 de Junho</h1>
+<h1>Aplicação feita na Next Level Week #1 da @Rocketseat, nos dias 1 a 5 de Junho de 2020</h1>
 
 
 <img src="/public/assets/README/Next.png" alt="Nlw">
@@ -28,3 +28,4 @@
 <h3>Codigo por:</h3> <h4><a href="https://www.linkedin.com/in/bruno-de-abreu-de-souza-16842a1a7/">@brunoabreusz</a></h4>
 <h3>Instrutor:</h3> <h4><a href="https://github.com/maykbrito">@maykbrito</a></h4>
 
+<h2>`-- npm start`</h2>
